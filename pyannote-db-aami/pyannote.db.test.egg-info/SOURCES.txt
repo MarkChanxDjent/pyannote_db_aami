@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+versioneer.py
+Test/__init__.py
+Test/_version.py
+pyannote.db.test.egg-info/PKG-INFO
+pyannote.db.test.egg-info/SOURCES.txt
+pyannote.db.test.egg-info/dependency_links.txt
+pyannote.db.test.egg-info/entry_points.txt
+pyannote.db.test.egg-info/requires.txt
+pyannote.db.test.egg-info/top_level.txt
